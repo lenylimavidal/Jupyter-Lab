@@ -1,2 +1,2 @@
 # Jupyter-Lab
-Machine Learning and Deep Learning projects with Python.
+Machine Learning and Deep Learning projects with Python. 📊✔🔎
